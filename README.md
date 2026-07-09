@@ -4,11 +4,9 @@ A fun and responsive animation project built with **HTML5** and **CSS3**. This p
 
 ## 🚀 Live Demo
 
-demo: https://your-username.github.io/Transitions-Magic/
-
+https://usmanpersonalmail2025-spec.github.io/Transitions-Magic/
 
 ## 📸 Preview
-
 
 ![Project Preview](images/screenshot1.png)
 
